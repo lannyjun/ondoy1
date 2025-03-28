@@ -1,26 +1,31 @@
 h1 {
-    color: red;
-    font-size: 200px;
+     color: red;
+     font-size: 200px;
 
 }
 
 img:hover{
-   background-color: red;      
+    background-color: red;      
 }
 
 .bacon{
 
-   background-attachment:  red;
+    background-attachment:  red;
 }
 .circular{
-   border-radius: 100%;
+    border-radius: 100%;
 
 }
 
 #heading {
-   color: blue;
+    color: blue;
 }
 #big{
-   font-size: 1000px;
+    font-size: 1000px;
 
 }
+
+
+
+#heading {
+   color:blue;
